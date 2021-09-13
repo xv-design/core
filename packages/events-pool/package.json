@@ -1,0 +1,29 @@
+{
+  "name": "@xv-design/events-pool",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xiaoYown <qzy09101018@sina.com>",
+  "homepage": "https://github.com/xv-design/core#readme",
+  "license": "ISC",
+  "main": "lib/events-pool.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xv-design/core.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/xv-design/core/issues"
+  }
+}
